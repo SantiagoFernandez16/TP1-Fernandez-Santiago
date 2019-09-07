@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1554495062 source:c:\users\omar\downloads\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554491664 c:\users\omar\downloads\tp1\tp1\biblioteca.h
+
+1554494437 source:c:\users\omar\downloads\tp1\tp1\tp1.c
+	<stdio.h>
+
+1554517219 source:c:\users\omar\desktop\tp-fernandesz-santiago-master\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554517160 c:\users\omar\desktop\tp-fernandesz-santiago-master\tp1\biblioteca.h
+
+1554516563 source:c:\users\omar\desktop\tp-fernandesz-santiago-master\tp1\tp1.c
+	<stdio.h>
+
+1567823311 source:c:\users\santy\downloads\tp1-fernandez-santiago-master\tp1-fernandez-santiago-master\tp-fernandesz-santiago-master\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1567823311 c:\users\santy\downloads\tp1-fernandez-santiago-master\tp1-fernandez-santiago-master\tp-fernandesz-santiago-master\tp1\biblioteca.h
+
+1567823689 source:c:\users\santy\downloads\tp1-fernandez-santiago-master\tp1-fernandez-santiago-master\tp-fernandesz-santiago-master\tp1\tp1.c
+	<stdio.h>
+
